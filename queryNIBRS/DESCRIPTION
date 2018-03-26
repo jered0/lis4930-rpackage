@@ -3,10 +3,9 @@ Title: Query NIBRS Crime Data Summaries
 Version: 0.0.0.9000
 Authors@R: person("Jered", "Heeschen", role=c("aut", "cre"), email = "jeredh@mail.usf.edu")
 Description: This package abstracts queries to the National Incident Based Reporting System (NIBRS) summary data using
-    the FBI's Crime Data API. Queries can retrieve summary data at the state and national level.
+    the FBI's Crime Data API. Queries can retrieve crime summary data at the state and national level.
 Depends: R (>= 3.1.2)
 Imports:
-    RCurl,
-    jsonlite
+    RCurl
 License: CC0
 LazyData: true
