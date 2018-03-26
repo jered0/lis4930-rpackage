@@ -8,6 +8,5 @@ Depends: R (>= 3.1.2)
 Imports:
     RCurl,
     jsonlite
-SystemRequirements: libcurl
 License: CC0
 LazyData: true
