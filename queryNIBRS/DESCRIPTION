@@ -1,5 +1,5 @@
 Package: queryNIBRS
-Title: Query NIBRS
+Title: Query NIBRS Crime Data Summaries
 Version: 0.0.0.9000
 Authors@R: person("Jered", "Heeschen", role=c("aut", "cre"), email = "jeredh@mail.usf.edu")
 Description: This package abstracts queries to the National Incident Based Reporting System (NIBRS) summary data using
